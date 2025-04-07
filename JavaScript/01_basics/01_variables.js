@@ -14,3 +14,12 @@ accountEmail = "vishal34@gamil.com"
 accountPassword = "me"
 accountCity = "saharanpur"
 console.table([accountEmail, accountId, accountPassword, accountCity, accountState,])
+
+let score = "33abc"
+console.log(typeof score);
+
+let Innumber = Number(score)
+console.log(Innumber);
+console.log(typeof(Innumber));
+
+
